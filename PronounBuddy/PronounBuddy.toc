@@ -1,9 +1,10 @@
 ## Interface: 11403
 ## Title: PronounBuddy
 ## Notes: Allows players to select and display their pronouns.
-## Author: YourName
+## Author: Sophia // SkittyWoW
 ## Version: 1.0
 ## SavedVariables: PronounBuddyDB
 
 PronounBuddy.lua
 PronounBuddy.xml
+
